@@ -1,0 +1,39 @@
+{
+    "users": [
+        {
+            "userId": 1,
+            "firstName": "Jim",
+            "lastName": "Owens",
+            "phoneNumber": "5559378823",
+            "emailAddress": "jimo@testuser.com"
+        },
+        {
+            "userId": 2,
+            "firstName": "Tim",
+            "lastName": "Tool",
+            "phoneNumber": "5559378343",
+            "emailAddress": "timt@testuser.com"
+        },
+        {
+            "userId": 3,
+            "firstName": "Jessica",
+            "lastName": "Bowser",
+            "phoneNumber": "5559373823",
+            "emailAddress": "jessicab@testuser.com"
+        },
+        {
+            "userId": 4,
+            "firstName": "Phil",
+            "lastName": "Bottoms",
+            "phoneNumber": "7779376234",
+            "emailAddress": "philb@testuser.com"
+        },
+        {
+            "userId": 5,
+            "firstName": "Jordan",
+            "lastName": "Sheep",
+            "phoneNumber": "5553428483",
+            "emailAddress": "jordans@testuser.com"
+        }
+    ]
+}
